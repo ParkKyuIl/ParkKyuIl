@@ -7,5 +7,5 @@
 :phone: Hit me up with Anything, Anytime (KST).  
 Telegram: @XayaKaisa.  
 Discord:  Xaya#7482.  
-E-MAIL: totopark0@gmail.com
+E-MAIL:  totopark0@gmail.com
 
