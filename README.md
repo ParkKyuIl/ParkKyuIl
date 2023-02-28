@@ -4,7 +4,7 @@
 #
 👀   
 I build Node.js back-end server on top of Amazon infrastructure and EVM Smart Contract with Solidity (ETH, Layer 2).   
-Past Projects: Perpetual Exchange, Lending Protocol, Defi 2.0.
+I have worked on developing: Perpetual Exchange, Lending Protocol, Defi 2.0.
 #
 :phone: Hit me up with Anything, Anytime (KST).  
 Telegram: @XayaKaisa.  
