@@ -13,7 +13,7 @@
 - 🟩 **Woddy - CrossFit 기록 서비스**  
   Java Spring Boot 기반 OAuth2.0, JWT 인증 및 서버 구조 설계
 
-- 🟪 **로봇연구소 VLM 기반 자동 분석 GUI/API 개발**  
+- 🟪 **한국로봇융합연구원 VLM 기반 자동 분석 GUI/API 개발**  
   PyQt5 + FastAPI로 VLM 모델 추론 로컬 환경 구성 및 자동화 파이프라인 설계
 
 - 🟧 **Azure DevOps 기반 CI/CD 파이프라인 구축**  
