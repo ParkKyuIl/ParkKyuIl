@@ -2,21 +2,20 @@
 
 ### 🔧 백엔드 개발자로써 많은 트래픽을 견디는 서버를 만들고자 합니다.
 ### 📈 실시간 대용량 처리, MSA, 클라우드, 분산 서버 개발에 관심이 많습니다.
-### 🎯 일이 아닌, 사람들의 삶을 바꾸는 재미로 개발을 하고 있습니다. 
 
 ---
 
 ## 🧩 Projects
-- 🟦 **PUBG 자기장 분석 플랫폼**  
+- ⚔️ **PUBG 자기장 분석 플랫폼**  
   Kafka, Redis, Kubernetes 기반 실시간 MSA 설계
   
-- 🟩 **Woddy - CrossFit 기록 서비스**  
+- 🏋️‍♀️ **Woddy - CrossFit 기록 서비스**  
   Java Spring Boot 기반 OAuth2.0, JWT 인증 및 서버 구조 설계
 
-- 🟪 **한국로봇융합연구원 VLM 기반 자동 분석 GUI/API 개발**  
+- 🤖 **한국로봇융합연구원 VLM 기반 자동 분석 GUI/API 개발**  
   PyQt5 + FastAPI로 VLM 모델 추론 로컬 환경 구성 및 자동화 파이프라인 설계
 
-- 🟧 **Azure DevOps 기반 CI/CD 파이프라인 구축**  
+- 🍃 **Azure DevOps 기반 CI/CD 파이프라인 구축**  
   GitHub → ACR → App Service 무중단 Slot Swap 배포 구현
 
 ---
