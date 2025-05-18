@@ -7,7 +7,7 @@
 
 ## 🧩 Projects
 - ⚔️ **PUBG 자기장 분석 플랫폼**  
-  Kafka, Redis, Kubernetes 기반 실시간 MSA 설계
+  Java Spring Boot, Kafka, Redis, Kubernetes 기반 실시간 MSA 설계
   
 - 🏋️‍♀️ **Woddy - CrossFit 기록 서비스**  
   Java Spring Boot 기반 OAuth2.0, JWT 인증 및 서버 구조 설계
