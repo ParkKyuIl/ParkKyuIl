@@ -6,6 +6,10 @@
 ---
 
 ## 🧩 Projects
+
+- ⚡ **AI 기반 업무 자동화 서비스**  
+  OpenAI Agents, MCP, NestJS, PostgreSQL, Redis 기반 실시간 업무 자동화 서버 설계 및 개발
+
 - ⚔️ **PUBG 자기장 분석 플랫폼**  
   Java Spring Boot, Kafka, Redis, Kubernetes 기반 실시간 MSA 설계
   
