@@ -7,6 +7,8 @@
 
 ## 🧩 Projects
 
+<a href="https://www.producthunt.com/products/2-b-ai?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_campaign=badge-2-b-ai" target="_blank" rel="noopener noreferrer"><img alt="2-b.ai - Todoist meets ChatGPT inside your browser | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1057880&amp;theme=light&amp;period=daily&amp;t=1768800160539"></a> <a href="https://www.producthunt.com/products/2-b-ai?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_campaign=badge-2-b-ai" target="_blank" rel="noopener noreferrer"><img alt="2-b.ai - Todoist meets ChatGPT inside your browser | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1057880&amp;theme=light&amp;period=weekly&amp;t=1768800160539"></a> <a href="https://www.producthunt.com/products/2-b-ai?embed=true&amp;utm_source=badge-top-post-topic-badge&amp;utm_medium=badge&amp;utm_campaign=badge-2-b-ai" target="_blank" rel="noopener noreferrer"><img alt="2-b.ai - Todoist meets ChatGPT inside your browser | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=1057880&amp;theme=light&amp;period=weekly&amp;topic_id=268&amp;t=1768800160539"></a>
+
 - ⚡ **AI 기반 업무 자동화 서비스**  
   OpenAI Agents, MCP, NestJS, PostgreSQL, Redis 기반 실시간 업무 자동화 서버 설계 및 개발
 
